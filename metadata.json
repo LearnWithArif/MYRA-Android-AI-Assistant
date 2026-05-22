@@ -1,0 +1,10 @@
+{
+  "name": "MYRA Android AI Assistant",
+  "description": "An interactive, high-fidelity simulator of the MYRA Android AI Voice Assistant featuring real Gemini-powered Hinglish conversational voice synthesis, simulated system overlays, Accessibility services, call announcers, and a comprehensive Android control environment.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
